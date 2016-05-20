@@ -11,7 +11,10 @@
     "start": "brunch watch --server",
     "build": "brunch build --production"
   },
-  "dependencies": {},
+  "dependencies": {
+    "backbone.marionette": "^2.4.5",
+    "jquery": "^2.2.3"
+  },
   "devDependencies": {
     "javascript-brunch": "^2.0.0",
     "css-brunch": "^2.0.0",
